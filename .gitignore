@@ -1,0 +1,14 @@
+.icon-icns
+.icon-ico
+linux-unpacked
+mac
+mac-arm64
+win-unpacked
+*.blockmap
+builder-debug.yml
+builder-effective-config.yaml
+*.dmg
+*.exe
+*.deb
+*.AppImage
+*.zip
