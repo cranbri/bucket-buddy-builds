@@ -2,7 +2,7 @@ name: Sign Windows Build
 
 on:
   release:
-    types: [created]
+    types: [published, prereleased]
 
 jobs:
   sign:
